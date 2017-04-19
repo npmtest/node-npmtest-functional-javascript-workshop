@@ -1,4 +1,7 @@
-# test coverage for  [functional-javascript-workshop (v1.0.6)](https://github.com/timoxley/functional-javascript-workshop)  [![npm package](https://img.shields.io/npm/v/npmtest-functional-javascript-workshop.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-functional-javascript-workshop) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-functional-javascript-workshop.svg)](https://travis-ci.org/npmtest/node-npmtest-functional-javascript-workshop)
+# npmtest-functional-javascript-workshop
+
+#### basic test coverage for  [functional-javascript-workshop (v1.0.6)](https://github.com/timoxley/functional-javascript-workshop)  [![npm package](https://img.shields.io/npm/v/npmtest-functional-javascript-workshop.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-functional-javascript-workshop) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-functional-javascript-workshop.svg)](https://travis-ci.org/npmtest/node-npmtest-functional-javascript-workshop)
+
 #### The basics of functional programming in JavaScript. No libraries required.
 
 [![NPM](https://nodei.co/npm/functional-javascript-workshop.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/functional-javascript-workshop)
